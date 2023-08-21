@@ -1,6 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=SeifKhaled13&icon=2&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-When I started seriously learning programming at 16, I was a passionate individual with a desire to explore its potential. I began as a web developer, working on small projects and learning js. However, my understanding of computer science completely changed when I entered university. I was amazed by its ability to process large amounts of data and create algorithms that could visually depict complex math concepts and equations, resulting in captivating art. This discovery sparked my fascination and motivated me to delve deeper into understanding these processes.
+Hello there! I'm Seif Khaled, a 19-year-old aspiring programmer currently pursuing my studies at the Faculty of Computers and Artificial Intelligence at Cairo University. I have a deep-rooted passion for programming and technology, which drives me to continuously learn and explore the fascinating world of computers and artificial intelligence.
+What truly sets me apart is my unbridled passion for programming. I consider coding not just a skill, but a form of creative expression. Whether it's crafting elegant algorithms, developing sleek user interfaces, or writing efficient backend logic, I thoroughly enjoy the process of bringing ideas to life through code.
+Thank you for taking the time to learn a bit about me. Here's to a future filled with exciting opportunities and endless lines of code! 🚀👨‍💻
 
 ![spinning-donut-featured](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/2e20c369-adf4-4f2e-b5fb-adadd8374f8d)
 
