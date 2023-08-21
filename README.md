@@ -4,7 +4,7 @@ Hello there! I'm Seif Khaled, a 19-year-old aspiring programmer currently pursui
 What truly sets me apart is my unbridled passion for programming. I consider coding not just a skill, but a form of creative expression. Whether it's crafting elegant algorithms, developing sleek user interfaces, or writing efficient backend logic, I thoroughly enjoy the process of bringing ideas to life through code.
 Thank you for taking the time to learn a bit about me. Here's to a future filled with exciting opportunities and endless lines of code! 🚀👨‍💻
 
-![spinning-donut-featured](https://github.com/Yousef-Albasel/Yousef-Albasel/assets/111648493/2e20c369-adf4-4f2e-b5fb-adadd8374f8d)
+![spinning-donut-featured](https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif?w=800)
 
 
 ## 🌐 Socials Media:
