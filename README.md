@@ -21,6 +21,6 @@ Thank you for taking the time to learn a bit about me. Here's to a future filled
 ![](https://github-profile-trophy.vercel.app/?username=SeifKhaled13&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SeifKhaled13&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SeifKhaled13&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
