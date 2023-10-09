@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=SeifKhaled13&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 # 💫 About Me:
 Hello there! I'm Seif Khaled, a 19-year-old aspiring programmer currently pursuing my studies at the Faculty of Computers and Artificial Intelligence at Cairo University. I have a deep-rooted passion for programming and technology, which drives me to continuously learn and explore the fascinating world of computers and artificial intelligence.
 What truly sets me apart is my unbridled passion for programming. I consider coding not just a skill, but a form of creative expression. Whether it's crafting elegant algorithms, developing sleek user interfaces, or writing efficient backend logic, I thoroughly enjoy the process of bringing ideas to life through code.
@@ -22,5 +21,7 @@ Thank you for taking the time to learn a bit about me. Here's to a future filled
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SeifKhaled13&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=SeifKhaled13&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ---
